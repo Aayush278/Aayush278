@@ -1,6 +1,6 @@
 About Me
 Hey, I'm Aayush.
-I'm a 16-year-old student passionate about learning and self-growth.
+I'm a 16-17-year-old student passionate about learning and self-growth.
 Currently exploring the world of programming and building strong fundamentals.
 
 What I Stand For
